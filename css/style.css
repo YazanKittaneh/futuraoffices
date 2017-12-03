@@ -53,7 +53,7 @@ top:0;
 left:0;
 width:100%;
 height:100%;
-background:#F7B633;
+background:#;
 }
 .maskHeader2{
 position:absolute;
@@ -636,6 +636,6 @@ font-size: 18px;
 }
 .btn-primary {
     color: #fff;
-    background-color: #000;
-    border-color: #fff;
+    background-color: #607D8B;
+    border-color: #607D8B;
 }
